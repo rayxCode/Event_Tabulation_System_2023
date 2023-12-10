@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Event_Tabulation_System", "Event_Tabulation_System.csproj", "{C7ADCA32-3628-4743-86F3-B03F98E5B141}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7ADCA32-3628-4743-86F3-B03F98E5B141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7ADCA32-3628-4743-86F3-B03F98E5B141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7ADCA32-3628-4743-86F3-B03F98E5B141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7ADCA32-3628-4743-86F3-B03F98E5B141}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D03AF7-C022-47CB-BE50-C138CB244523}
+	EndGlobalSection
+EndGlobal
